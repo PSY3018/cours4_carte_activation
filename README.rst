@@ -1,4 +1,4 @@
-Cours 2 - Principes de l'IRM
+Cours 4 - Carte d'activation
 ============================
 Cliquez sur ce badge et attendez que l'environnement charge complètement.
 Vous pourrez ensuite accéder au notebook comme si vous aviez un environnement python sur votre machine.
